@@ -8,7 +8,7 @@ def monkey_foo():
 
 
 def main():
-    print(f'Hello from main-02!')
+    print(f'Hello from main-04!')
 
     # From package foo.foo (as "f"), call foo()
     f.foo()
